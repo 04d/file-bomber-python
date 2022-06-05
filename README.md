@@ -1,2 +1,4 @@
-# file-bomber-python
+# file bomber python
+```fix
 Infinite file bomber made in python
+```
